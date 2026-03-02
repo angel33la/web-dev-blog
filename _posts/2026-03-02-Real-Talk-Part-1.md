@@ -1,5 +1,13 @@
 ---
-title: "REAL-TALK-PART-1"
+layout: post
+title: Real Talk Series for Web Dev Students - Part 1
+subtitle: When You’re Doing Everything Right and Still Can’t Keep Up in an Online Web Development Program
+gh-repo: angel33la/web-dev-blog
+gh-badge: [star, fork, follow]
+tags: [stress, students, burnout, mentalHealth, webDev, blog]
+comments: true
+mathjax: true
+author: Angella McConnell
 date: 2026-03-02
 ---
 
