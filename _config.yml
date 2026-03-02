@@ -52,13 +52,13 @@ round-avatar: true
 social-network-links:
   email: "angel33la@outlook.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  freeCodeCamp: angel1130la
-  github: angel33la
-  twitter: Angel1130la33
+  freeCodeCamp: "angel1130la"
+  github: "angel33la"
+  twitter: "Angel1130la33"
 # whatsapp: 15551212
-  medium: @angel1130la
-  reddit: angelic1130eyez
-  linkedin: angella1130mcconnell
+  medium: "@angel1130la"
+  reddit: "angelic1130eyez"
+  linkedin: "angella1130mcconnell"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -84,7 +84,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: This website is a virtual proof that I do exist
 
 ###########################
 # --- General options --- #
